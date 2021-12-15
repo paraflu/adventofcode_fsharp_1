@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "1", "src\1.fsproj", "{144D9207-F2FE-44BF-AE49-B2DA4BABF93E}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Advent", "Advent\Advent.fsproj", "{144D9207-F2FE-44BF-AE49-B2DA4BABF93E}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "test", "test\test.fsproj", "{FABFFED0-3D04-43E8-9295-6066ABC97C60}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Test", "Test\Test.fsproj", "{FABFFED0-3D04-43E8-9295-6066ABC97C60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
