@@ -6,7 +6,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Tests.fs" />
-    <Compile Include="../Advent/Module.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <ItemGroup>
@@ -22,6 +21,6 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\1.fsproj" />
+    <ProjectReference Include="..\Advent\Advent.fsproj" />
   </ItemGroup>
 </Project>
